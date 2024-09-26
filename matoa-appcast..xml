@@ -3,11 +3,11 @@
     <channel>
         <title>Matoa</title>
         <item>
-            <title>Version 1.0.3</title>
+            <title>Version 1.0.4</title>
             <description>Update Versi 1
-0.3 build 125</description>
-            <pubDate>Wed, 06 Aug 2024 11:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=id.go.pajak.vita" sparkle:version="1.0.3" sparkle:os="android" />
+0.4 build 134</description>
+            <pubDate>Wed, 26 Sep 2024 23:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=id.go.pajak.vita" sparkle:version="1.0.4" sparkle:os="android" />
         </item>
     </channel>
 </rss>
