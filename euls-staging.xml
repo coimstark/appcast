@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>VITA Staging</title>
+        <item>
+            <title>Version 0.1.0</title>
+            <description>🚀 Rilis Pertama VITA! 🚀
+
+Selamat datang di VITA (Versatile and Intelligent Tax Officer Assistant) - Aplikasi internal untuk Direktorat Jenderal Pajak.
+
+✨ Fitur Utama:
+• Dashboard informatif dengan statistik real-time
+• Autentikasi OAuth2 yang aman dengan dukungan biometrik
+• Kalkulator pajak PPn dan penyusutan aset
+• Pencarian NPWP (TIN) 
+• Notifikasi push untuk update penting
+• Mode gelap/terang yang dapat disesuaikan
+
+📱 Platform yang Didukung:
+• Android
+• iOS
+• Web
+
+🔐 Keamanan:
+• Token tersimpan dengan aman
+• Refresh token otomatis
+• Autentikasi biometrik
+
+Silakan coba dan berikan feedback Anda! 🔥</description>
+            <pubDate>Tue, 13 Jan 2026 10:00:00 +0700</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=id.go.pajak.vita.staging" sparkle:version="0.1.0" sparkle:os="android" />
+        </item>
+    </channel>
+</rss>
